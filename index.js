@@ -1,4 +1,4 @@
-const url="https://crudcrud.com/api/12e9d6d1bf594422ab7a8035b1748617/appointmentData";
+const url="https://crudcrud.com/api/070701d6efac4313a6d0086367abfc83/appointmentData";
 window.addEventListener("DOMContentLoaded",()=>{
     axios.get(url)
     .then((response)=>{
